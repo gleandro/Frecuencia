@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<McsDataRecording>
+    <DocumentSettings>
+        <Userdata name="Title">2</Userdata>
+        <Userdata name="trigger">manual</Userdata>
+        <RecordingStarted>2017-09-05T13:42:40</RecordingStarted>
+    </DocumentSettings>
+    <DeviceSettings>
+        <CalibratedFrequencyMax>9400000000</CalibratedFrequencyMax>
+        <Class>AHFV4SpectranDevice</Class>
+        <Model>60105</Model>
+        <Options>0000000000000110</Options>
+        <Serial>58848</Serial>
+        <InfoString index="0">60105</InfoString>
+        <InfoString index="1">4</InfoString>
+        <InfoString index="2">27</InfoString>
+        <InfoString index="3">1300 mAh NiMH</InfoString>
+        <InfoString index="4">Beta 42</InfoString>
+        <InfoString index="5">02.07.2014</InfoString>
+        <InfoString index="6">58848</InfoString>
+        <InfoString index="7">T. Adams</InfoString>
+        <InfoString index="8"> </InfoString>
+        <Variable name="AttenuationFactor">-10</Variable>
+        <Variable name="Beep">50</Variable>
+        <Variable name="CenterFrequency">918</Variable>
+        <Variable name="DemodulatorMode">0</Variable>
+        <Variable name="DetectorMode">0</Variable>
+        <Variable name="DisableDisplay">1</Variable>
+        <Variable name="EnableCache">0</Variable>
+        <Variable name="Preamplifier">0</Variable>
+        <Variable name="RBWFrequencySteps">3</Variable>
+        <Variable name="ReceiverConfiguration">0</Variable>
+        <Variable name="ReferenceLevel">-10</Variable>
+        <Variable name="ResolutionBandwidth">1</Variable>
+        <Variable name="SpanFrequency">84</Variable>
+        <Variable name="SpeakerVolume">0</Variable>
+        <Variable name="StartFrequency">876</Variable>
+        <Variable name="StopFrequency">960</Variable>
+        <Variable name="SweepFrequencyPoints">0</Variable>
+        <Variable name="SweepTime">500</Variable>
+        <Variable name="UsbMeasurementData">1</Variable>
+        <Variable name="UsbResetSweep">1</Variable>
+        <Variable name="VideoBandwidth">1</Variable>
+    </DeviceSettings>
+    <ProcessorSettings>
+        <CalibrationManual>0</CalibrationManual>
+        <SweepProfile>gsm900_de</SweepProfile>
+        <SuppressionMode>3</SuppressionMode>
+    </ProcessorSettings>
+    <Sweep>
+        <StartDate>2017-09-05T13:42:40.671</StartDate>
+        <StopDate>2017-09-05T13:42:42.197</StopDate>
+        <Frequencies count="57">876000000; 877500000; 879000000; 880500000; 882000000; 883500000; 885000000; 886500000; 888000000; 889500000; 891000000; 892500000; 894000000; 895500000; 897000000; 898500000; 900000000; 901500000; 903000000; 904500000; 906000000; 907500000; 909000000; 910500000; 912000000; 913500000; 915000000; 916500000; 918000000; 919500000; 921000000; 922500000; 924000000; 925500000; 927000000; 928500000; 930000000; 931500000; 933000000; 934500000; 936000000; 937500000; 939000000; 940500000; 942000000; 943500000; 945000000; 946500000; 948000000; 949500000; 951000000; 952500000; 954000000; 955500000; 957000000; 958500000; 960000000; </Frequencies>
+        <Values count="57" unit="0">-74.1693; -70.1439; -71.7913; -63.1342; -57.4613; -57.1059; -62.0888; -59.2798; -60.2038; -63.027; -77.0174; -76.231; -76.1249; -79.462; -78.3038; -77.3128; -79.6205; -76.8547; -78.2505; -74.9401; -77.6565; -77.3109; -77.6033; -77.2012; -76.7782; -77.0187; -77.3768; -77.5801; -78.0058; -80.6213; -74.0462; -77.7742; -75.8765; -77.2874; -77.6384; -77.4266; -78.1455; -77.7028; -77.8795; -76.6523; -78.1101; -77.9024; -71.6825; -68.1739; -76.2596; -76.2766; -74.738; -73.4603; -72.3939; -70.0347; -72.4633; -74.2639; -71.4208; -74.95; -72.3266; -70.2282; -64.1075; </Values>
+        <AntennaGain count="57">0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; </AntennaGain>
+        <GeoData>
+            <GPS_Time>2017-09-05T20:42:46Z</GPS_Time>
+            <Latitude>-1205.8</Latitude>
+            <Longitude>-7701.39</Longitude>
+            <Elevation>148</Elevation>
+            <Course>280.91</Course>
+            <Speed>0.7</Speed>
+            <Satellites>5</Satellites>
+            <Barometer>998.665</Barometer>
+            <Tilt_XYZ>-0.03125; 0.464844; -0.992188</Tilt_XYZ>
+            <Compass_XYZ>588; -158; 5</Compass_XYZ>
+            <Gyro_XYZ>-1817; 1568; 290</Gyro_XYZ>
+        </GeoData>
+    </Sweep>
+    <Sweep>
+        <StartDate>2017-09-05T13:42:42.197</StartDate>
+        <StopDate>2017-09-05T13:42:43.760</StopDate>
+        <Values count="57" unit="0">-73.2732; -69.7887; -70.2656; -61.8933; -57.2988; -57.2909; -62.6922; -60.1458; -58.527; -61.7517; -74.1545; -72.5019; -76.2326; -79.3896; -78.0894; -77.4056; -79.6544; -77; -78.2878; -75.1634; -77.5663; -77.3055; -77.2837; -76.9693; -76.907; -76.7637; -77.2266; -77.3227; -78.0145; -80.6586; -73.9246; -77.9488; -75.9463; -77.1186; -77.3363; -77.2647; -77.9991; -77.5832; -77.9086; -76.5942; -78.0293; -77.8427; -71.4089; -68.1166; -76.3033; -76.1783; -72.9087; -68.2645; -68.4114; -71.1528; -67.1272; -68.7634; -66.9364; -75.5441; -71.8668; -69.6314; -64.092; </Values>
+        <GeoData>
+            <GPS_Time>2017-09-05T20:42:47Z</GPS_Time>
+            <Latitude>-1205.8</Latitude>
+            <Longitude>-7701.39</Longitude>
+            <Elevation>147.9</Elevation>
+            <Course>279.11</Course>
+            <Speed>0.71</Speed>
+            <Satellites>5</Satellites>
+            <Barometer>998.893</Barometer>
+            <Tilt_XYZ>-0.144531; 0.0429688; -1.01172</Tilt_XYZ>
+            <Compass_XYZ>594; -152; -82</Compass_XYZ>
+            <Gyro_XYZ>-1383; 444; -478</Gyro_XYZ>
+        </GeoData>
+    </Sweep>
+    <Sweep>
+        <StartDate>2017-09-05T13:42:43.760</StartDate>
+        <StopDate>2017-09-05T13:42:45.298</StopDate>
+        <Values count="57" unit="0">-72.7568; -69.3206; -71.6469; -65.7372; -60.5821; -59.7387; -65.7896; -65.358; -62.3607; -65.2409; -74.1124; -72.1864; -76.1143; -79.5913; -78.1696; -77.3622; -79.6714; -76.9294; -78.3188; -75.0829; -77.725; -77.3326; -77.4113; -77.1815; -77.163; -76.9019; -77.4384; -77.7457; -77.8386; -80.7069; -73.929; -78.0313; -76.083; -77.1278; -77.4241; -77.4333; -78.0146; -77.6137; -77.8327; -76.7386; -78.2661; -77.6619; -71.5907; -68.2224; -76.3573; -76.2155; -72.367; -68.2085; -67.9413; -66.773; -66.2677; -68.6596; -70.1408; -75.2377; -71.1013; -69.7076; -64.2579; </Values>
+        <GeoData>
+            <GPS_Time>2017-09-05T20:42:49Z</GPS_Time>
+            <Latitude>-1205.8</Latitude>
+            <Longitude>-7701.39</Longitude>
+            <Elevation>147.8</Elevation>
+            <Course>286.52</Course>
+            <Speed>0.71</Speed>
+            <Satellites>5</Satellites>
+            <Barometer>998.52</Barometer>
+            <Tilt_XYZ>-0.0546875; 0.0664062; -0.996094</Tilt_XYZ>
+            <Compass_XYZ>592; -136; -89</Compass_XYZ>
+            <Gyro_XYZ>-250; 616; -222</Gyro_XYZ>
+        </GeoData>
+    </Sweep>
+    <DocumentSettings>
+        <RecordingStopped>2017-09-05T13:42:46</RecordingStopped>
+    </DocumentSettings>
+</McsDataRecording>
